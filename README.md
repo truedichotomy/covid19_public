@@ -18,6 +18,7 @@ NOTE: The dot color on the maps indicates the log of the count per capita, the d
 
 If you want your state/territory be added to this list, please let me know.
 
+- [Alabama](https://truedichotomy.github.io/covid19_public/timeseries/covid19ts_Alabama.html)
 - [Alaska](https://truedichotomy.github.io/covid19_public/timeseries/covid19ts_Alaska.html)
 - [Arizona](https://truedichotomy.github.io/covid19_public/timeseries/covid19ts_Arizona.html)
 - [California](https://truedichotomy.github.io/covid19_public/timeseries/covid19ts_California.html)
@@ -27,12 +28,14 @@ If you want your state/territory be added to this list, please let me know.
 - [Florida](https://truedichotomy.github.io/covid19_public/timeseries/covid19ts_Florida.html)
 - [Georgia](https://truedichotomy.github.io/covid19_public/timeseries/covid19ts_Georgia.html)
 - [Hawaii](https://truedichotomy.github.io/covid19_public/timeseries/covid19ts_Hawaii.html)
+- [Idaho](https://truedichotomy.github.io/covid19_public/timeseries/covid19ts_Idaho.html)
 - [Illinois](https://truedichotomy.github.io/covid19_public/timeseries/covid19ts_Illinois.html)
 - [Iowa](https://truedichotomy.github.io/covid19_public/timeseries/covid19ts_Iowa.html)
 - [Maine](https://truedichotomy.github.io/covid19_public/timeseries/covid19ts_Maine.html)
 - [Maryland](https://truedichotomy.github.io/covid19_public/timeseries/covid19ts_Maryland.html)
 - [Massachusetts](https://truedichotomy.github.io/covid19_public/timeseries/covid19ts_Massachusetts.html)
 - [Michigan](https://truedichotomy.github.io/covid19_public/timeseries/covid19ts_Michigan.html)
+- [Minnesota](https://truedichotomy.github.io/covid19_public/timeseries/covid19ts_Minnesota.html)
 - [Mississippi](https://truedichotomy.github.io/covid19_public/timeseries/covid19ts_Mississippi.html)
 - [New Hampshire](https://truedichotomy.github.io/covid19_public/timeseries/covid19ts_NewHampshire.html)
 - [New Jersey](https://truedichotomy.github.io/covid19_public/timeseries/covid19ts_NewJersey.html)
@@ -44,10 +47,13 @@ If you want your state/territory be added to this list, please let me know.
 - [Pennsylvania](https://truedichotomy.github.io/covid19_public/timeseries/covid19ts_Pennsylvania.html)
 - [Puerto Rico](https://truedichotomy.github.io/covid19_public/timeseries/covid19ts_PuertoRico.html)
 - [South Carolina](https://truedichotomy.github.io/covid19_public/timeseries/covid19ts_SouthCarolina.html)
+- [Tennessee](https://truedichotomy.github.io/covid19_public/timeseries/covid19ts_Tennessee.html)
 - [Texas](https://truedichotomy.github.io/covid19_public/timeseries/covid19ts_Texas.html)
 - [Vermont](https://truedichotomy.github.io/covid19_public/timeseries/covid19ts_Vermont.html)
 - [Virginia](https://truedichotomy.github.io/covid19_public/timeseries/covid19ts_Virginia.html)
 - [Washington](https://truedichotomy.github.io/covid19_public/timeseries/covid19ts_Washington.html)
 - [West Virginia](https://truedichotomy.github.io/covid19_public/timeseries/covid19ts_WestVirginia.html)
+- [Wisconsin](https://truedichotomy.github.io/covid19_public/timeseries/covid19ts_Wisconsin.html)
+
 
 
