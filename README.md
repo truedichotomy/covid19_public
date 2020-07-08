@@ -7,7 +7,7 @@ Created by [_Donglai Gong_](mailto:gong@bluetao.com)
 
 ### Maps: 
 
-Dot color on these maps indicates the log of the total count, the dot size indicates the log of the population in each county.
+NOTE: The dot color on these maps indicates the log of the total count, the dot size indicates the log of the population in each county. If you hover over each individual county, you'll see the actual counts.
 
 - [Cumulative Confirmed Cases](https://truedichotomy.github.io/covid19_public/maps/covid19map_confirmed.html)
 - [Cumulative Deaths](https://truedichotomy.github.io/covid19_public/maps/covid19map_death.html)
