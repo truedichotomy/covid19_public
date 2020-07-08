@@ -1,6 +1,7 @@
 ## COVID19 Time Series & Maps (County Level)
 Data Source: (https://github.com/CSSEGISandData/COVID-19)
-Created by _Donglai Gong_
+
+Created by [_Donglai Gong_](mailto:gong@bluetao.com)
 
 ### Maps: 
 - [Cumulative Confirmed Cases](https://github.com/truedichotomy/covid19_public/maps/covid19map_confirmed.html)
