@@ -1,4 +1,4 @@
-## U.S. COVID19 Time Series & Maps (County Level)
+## U.S. COVID19 Maps & Time Series (County Level)
 Data Source: [https://github.com/CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19)
 
 Created by [_Donglai Gong_](mailto:gong@bluetao.com)
