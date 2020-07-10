@@ -9,8 +9,10 @@ Created by [_Donglai Gong_](mailto:gong@bluetao.com)
 
 - [Cumulative Confirmed Cases per 100k](https://truedichotomy.github.io/covid19_public/maps/covid19map_confirmed.html)
 - [Cumulative Deaths per 100k](https://truedichotomy.github.io/covid19_public/maps/covid19map_death.html)
-- [Daily New Confirmed Cases per 100k (7 day average)](https://truedichotomy.github.io/covid19_public/maps/covid19map_delta_confirmed.html)
-- [Daily New Deaths per 100k (7 day average)](https://truedichotomy.github.io/covid19_public/maps/covid19map_delta_death.html)
+- [Daily New Confirmed Cases per 100k (7 day average)](https://truedichotomy.github.io/covid19_public/maps/covid19map_delta_confirmed_7days.html)
+- [Daily New Deaths per 100k (7 day average)](https://truedichotomy.github.io/covid19_public/maps/covid19map_delta_death_7days.html)
+- [Daily New Confirmed Cases per 100k (latest)](https://truedichotomy.github.io/covid19_public/maps/covid19map_delta_confirmed_latest.html)
+- [Daily New Deaths per 100k (latest)](https://truedichotomy.github.io/covid19_public/maps/covid19map_delta_death_latest.html)
 
 NOTE: The dot color on the maps indicates the log of the count per capita, the dot size indicates the log of the population in each county. The actual counts is shown when you hover over each county.
 
