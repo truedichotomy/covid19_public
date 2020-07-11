@@ -8,9 +8,10 @@ Created by [_Donglai Gong_](mailto:gong@bluetao.com)
 ### Maps: 
 
 - [Cumulative Confirmed Cases per 100k](https://truedichotomy.github.io/covid19_public/maps/covid19map_confirmed.html)
-- [Cumulative Deaths per 100k](https://truedichotomy.github.io/covid19_public/maps/covid19map_death.html)
 - [Daily New Confirmed Cases per 100k (7 day average)](https://truedichotomy.github.io/covid19_public/maps/covid19map_delta_confirmed_7days.html)
 - [Daily New Deaths per 100k (7 day average)](https://truedichotomy.github.io/covid19_public/maps/covid19map_delta_death_7days.html)
+
+- [Cumulative Deaths per 100k](https://truedichotomy.github.io/covid19_public/maps/covid19map_death.html)
 - [Daily New Confirmed Cases per 100k (latest)](https://truedichotomy.github.io/covid19_public/maps/covid19map_delta_confirmed_latest.html)
 - [Daily New Deaths per 100k (latest)](https://truedichotomy.github.io/covid19_public/maps/covid19map_delta_death_latest.html)
 
