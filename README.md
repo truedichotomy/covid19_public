@@ -20,8 +20,8 @@ NOTE: The dot color on the maps indicates the log of the count per capita, the d
 
 If you want your state/territory be added to this list, please let me know.
 
-- [Alabama (Confirmed)](https://truedichotomy.github.io/covid19_public/timeseries/covid19ts_confirmed_Alabama.html) | [(Death)](https://truedichotomy.github.io/covid19_public/timeseries/covid19ts_death_Alabama.html)
-- [Alaska (Confirmed)](https://truedichotomy.github.io/covid19_public/timeseries/covid19ts_confirmed_Alaska.html) | [(Death)](https://truedichotomy.github.io/covid19_public/timeseries/covid19ts_death_Alaska.html)
+- [Alabama (Confirmed)](https://truedichotomy.github.io/covid19_public/timeseries/covid19ts_confirmed_Alabama.html) / [(Death)](https://truedichotomy.github.io/covid19_public/timeseries/covid19ts_death_Alabama.html)
+- [Alaska (Confirmed)](https://truedichotomy.github.io/covid19_public/timeseries/covid19ts_confirmed_Alaska.html) / [(Death)](https://truedichotomy.github.io/covid19_public/timeseries/covid19ts_death_Alaska.html)
 - [Arizona (Confirmed)](https://truedichotomy.github.io/covid19_public/timeseries/covid19ts_confirmed_Arizona.html) | [(Death)](https://truedichotomy.github.io/covid19_public/timeseries/covid19ts_death_Arizona.html)
 - [California (Confirmed)](https://truedichotomy.github.io/covid19_public/timeseries/covid19ts_confirmed_California.html) | [(Death)](https://truedichotomy.github.io/covid19_public/timeseries/covid19ts_death_California.html)
 - [Colorado (Confirmed)](https://truedichotomy.github.io/covid19_public/timeseries/covid19ts_confirmed_Colorado.html) | [(Death)](https://truedichotomy.github.io/covid19_public/timeseries/covid19ts_death_Colorado.html)
