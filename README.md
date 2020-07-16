@@ -18,8 +18,6 @@ NOTE: The dot color on the maps indicates the log of the count per capita, the d
 
 ### Time Series:
 
-If you want your state/territory be added to this list, please let me know.
-
 - [Alabama](https://truedichotomy.github.io/covid19_public/timeseries/covid19ts_integrated_Alabama.html)
 - [Alaska](https://truedichotomy.github.io/covid19_public/timeseries/covid19ts_integrated_Alaska.html)
 - [Arizona](https://truedichotomy.github.io/covid19_public/timeseries/covid19ts_integrated_Arizona.html)
