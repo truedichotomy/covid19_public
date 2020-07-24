@@ -51,7 +51,7 @@ NOTE: The dot color on the maps indicates the log of the count per capita, the d
 - [Nebraska](https://truedichotomy.github.io/covid19_public/timeseries/covid19ts_integrated_Nebraska.html)
 - [Nevada](https://truedichotomy.github.io/covid19_public/timeseries/covid19ts_integrated_Nevada.html)
 - [New Hampshire](https://truedichotomy.github.io/covid19_public/timeseries/covid19ts_integrated_NewHampshire.html)
-- [New Jersey](https://truedichotomy.github.io/covid19_public/timeseries/covid19tsintegratedd_NewJersey.html)
+- [New Jersey](https://truedichotomy.github.io/covid19_public/timeseries/covid19ts_integrated_NewJersey.html)
 - [New Mexico](https://truedichotomy.github.io/covid19_public/timeseries/covid19ts_integrated_NewMexico.html)
 - [New York](https://truedichotomy.github.io/covid19_public/timeseries/covid19ts_integrated_NewYork.html)
 - [North Carolina](https://truedichotomy.github.io/covid19_public/timeseries/covid19ts_integrated_NorthCarolina.html)
