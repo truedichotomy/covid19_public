@@ -61,7 +61,7 @@ NOTE: The dot color on the maps indicates the log of the count per capita, the d
 - [Oregon](https://truedichotomy.github.io/covid19_public/timeseries/covid19ts_integrated_Oregon.html)
 - [Pennsylvania](https://truedichotomy.github.io/covid19_public/timeseries/covid19ts_integrated_Pennsylvania.html)
 - [Puerto Rico](https://truedichotomy.github.io/covid19_public/timeseries/covid19ts_integrated_PuertoRico.html)
-- [Rhode Island (not active)](https://truedichotomy.github.io/covid19_public/timeseries/covid19ts_integrated_RhodeIsland.html)
+- [Rhode Island](https://truedichotomy.github.io/covid19_public/timeseries/covid19ts_integrated_RhodeIsland.html)
 - [South Carolina](https://truedichotomy.github.io/covid19_public/timeseries/covid19ts_integrated_SouthCarolina.html)
 - [South Dakota](https://truedichotomy.github.io/covid19_public/timeseries/covid19ts_integrated_SouthDakota.html)
 - [Tennessee](https://truedichotomy.github.io/covid19_public/timeseries/covid19ts_integrated_Tennessee.html)
