@@ -17,7 +17,7 @@ Created by [_Donglai Gong_](mailto:gong@bluetao.com)
 - [Daily New Deaths per 100k (7 day average)](https://truedichotomy.github.io/covid19_public/maps/covid19map_delta_death_7days.html)
 - [Daily New Deaths per 100k (latest)](https://truedichotomy.github.io/covid19_public/maps/covid19map_delta_death_latest.html)
 
-NOTE: The dot color on the maps indicates the log of the count per capita, the dot size indicates the log of the population in each county. The actual counts is shown when you hover over each county.
+NOTE: The dot color on the maps indicates the log10 of the case count per capita (i.e. log10(1) = 0, log10(10) = 1, log10(100) = 2, etc.), the dot size qualitatively represent the population per county. The actual case count is shown when you hover over each county.
 
 
 ## Time Series:
